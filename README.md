@@ -139,3 +139,7 @@
     - 「直播 ›」悬浮在轨道右端，不挤压时间轴，播放头居中。
     - 事件卡文字标签改为类型图标。
     - 合并进框架页 Demo v1.9；新增 9 个 `liveview_*` 埋点；3.2、3、3.3 子页同步更新。
+ 
+- ### v1.10 · 更新iPhone Duo和iPad交互流程
+
+来源：Omada Guard APP-iPhone Duo & iPad
