@@ -19,7 +19,7 @@
 | 15 | 2026-11-01 | v1.9 | feat | Omada Guard APP-Live View | Live View 按 PRD v0.4 重做，与 PRD 原型共用一份代码 |
 | 16 | 2026-11-01 | — | chore | 更新日志 | 新建本页；框架页「更新规则」和 EZ(bot) 新增：每次更新后在本页记录日志 |
 | 17 | 2026-11-01 | — | docs | 更新日志 | 新增「原话记录：问题与修改建议」：收录 7 个需求文档中的问题原文和对话中的修改意见原话 |
-| 17 | 2026-11-01 | v1.10 | feat | Omada Guard APP-iPhone Duo & iPad | 更新支持iPhone Duo和iPad交互方案 |
+| 18 | 2026-11-01 | v1.10 | feat | Omada Guard APP-iPhone Duo & iPad | 更新支持iPhone Duo和iPad交互方案 |
 
 ## 改动清单
 
